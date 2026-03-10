@@ -1,6 +1,6 @@
-# ---------------------------------------------------------------------
-#                       Zopper_Assignment
-# ---------------------------------------------------------------------
+# ----------------------------------------------------
+#              Zopper_Assignment
+# ----------------------------------------------------
 Business Intelligence Internship Assignment - Data Simulation and Analytics using Python, and Visualization.
 
 # Zopper Business Intelligence Internship Assignment
