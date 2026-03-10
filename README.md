@@ -1,18 +1,17 @@
 # ---------------------------------------------------------------------
 #                       Zopper_Assignment
 # ---------------------------------------------------------------------
-Business Intelligence Internship Assignment - Data Simulation and Analytics using Python, SQL, and Visualization.
+Business Intelligence Internship Assignment - Data Simulation and Analytics using Python, and Visualization.
 
 # Zopper Business Intelligence Internship Assignment
 
-This project simulates an insurance business portfolio and performs analytical evaluation using Python, SQL, and data visualization.
+This project simulates an insurance business portfolio and performs analytical evaluation using Python and data visualization.
 
 ## Project Objective
 The goal of this assignment is to analyze policy sales and claim data to understand business performance, claim trends, and profitability.
 
 ## Tools & Technologies
 - Python (Pandas, Matplotlib)
-- SQL
 - Jupyter Notebook
 - Data Visualization
 
